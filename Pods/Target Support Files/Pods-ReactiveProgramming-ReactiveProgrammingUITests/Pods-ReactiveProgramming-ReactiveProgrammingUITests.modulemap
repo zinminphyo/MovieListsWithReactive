@@ -1,0 +1,6 @@
+framework module Pods_ReactiveProgramming_ReactiveProgrammingUITests {
+  umbrella header "Pods-ReactiveProgramming-ReactiveProgrammingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
